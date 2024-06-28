@@ -14,8 +14,8 @@ Make sure you have the following installed on your machine:
 First, clone the repository to your local machine using Git:
 
 ```sh
-git clone https://github.com/
-cd your-repository
+git clone https://github.com/2307prashant/quickbook-sample
+cd quickbook-sample
 ```
 
 ### 2. Creating a virtual environment
